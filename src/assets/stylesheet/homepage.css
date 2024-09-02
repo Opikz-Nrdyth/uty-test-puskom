@@ -1,0 +1,19 @@
+.brand-series {
+  font-size: 2rem;
+  font-weight: bolder;
+  opacity: 0.9;
+  margin-top: -4%;
+  margin-bottom: -1%;
+}
+@media only screen and (max-width: 870px) {
+  .brand-series {
+    font-size: 1.2em;
+    margin-bottom: 0%;
+  }
+  .card-title {
+    font-size: 1em !important;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+}
